@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Hmaidi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00C4B4&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;IT+Infrastructure+Architect;Automation+%26+Scalability+Specialist;Building+the+Future+of+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00C4B4¢er=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;IT+Infrastructure+Architect;Automation+%26+Scalability+Specialist;Building+the+Future+of+Cloud" alt="Typing SVG" />
 </div>
 
 ---
@@ -111,7 +111,7 @@ I'm a passionate **Cloud & DevOps Engineer** based in **Tunis, Tunisia** 🇹�
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style-for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style-for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/StarUML-FF6B6B?style-for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTIgMjJNMiAxMkwyMiAxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9zdmc+&logoColor=white" alt="StarUML"/>
-  <img src="https://img.shields.io/badge/Scene%20Builder-FF6B35?style-for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTIgMjJNMiAxMkwyMiAxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9zdmc+&logoColor=white" alt="Scene Builder"/>
+  <img src="https://img.shields.io/badge/Scene%20Builder-FF6B35?style-for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCA2NCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTIgMjJNMiAxMkw2MiAxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9zdmc+&logoColor=white" alt="Scene Builder"/>
 </p>
 
 ---
@@ -147,8 +147,8 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 
 ## 💼 Professional Experience
 
-### ☁️ Cloud & DevOps Engineer | Next Step IT
-*Current Role*
+### ☁️ Cloud & DevOps Engineer Intern | Next Step IT
+*Current Internship*
 
 **DBaaS Platform: Automated Managed Database Provisioning**
 - Designed and implemented scalable database infrastructure
@@ -163,14 +163,16 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 - Delivered production-ready dashboards with PDF export
 - **Tech Stack**: vCenter, VMware ESXi, Nakivo, Zimbra, Grafana, PowerShell, Spring Boot, Node.js, PostgreSQL
 
-### ⚙️ DevOps Engineer | Société Générale d'Automatisme
+### ⚙️ DevOps Engineer Intern | Société Générale d'Automatisme
 *June 2023 - August 2023*
+
 - Built enterprise CI/CD pipelines with Jenkins
 - Orchestrated containerized applications on Kubernetes
 - Implemented security-first DevOps workflows
 
-### 📊 BI Infrastructure Engineer | BIAT
+### 📊 BI Infrastructure Engineer Intern | BIAT
 *February 2022 - June 2022*
+
 - Designed data warehouse for Swift transaction processing
 - Built ETL pipelines with Talend
 - Created executive dashboards with Power BI
