@@ -189,7 +189,7 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedHmaidi&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="420" height="200" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHmaidi&layout=compact&theme=radical&hide_border=true&border_radius=10" width="420" height="200" alt="Top Languages" />
 </div>
