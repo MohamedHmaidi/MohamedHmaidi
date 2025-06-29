@@ -54,14 +54,13 @@ I'm a passionate **Cloud & DevOps Engineer** based in **Tunis, Tunisia** 🇹�
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
   <img src="https://img.shields.io/badge/K8s%20Operators-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Operators"/>
   <img src="https://img.shields.io/badge/MetalLB-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="MetalLB"/>
-  <img src="https://img.shields.io/badge/NFS-FF6B35?style=for-the-badge&logo=files&logoColor=white" alt="NFS"/>
 </p>
 
 ### 🗄️ Storage
 <p align="left">
   <img src="https://img.shields.io/badge/NFS-FF6B35?style=for-the-badge&logo=files&logoColor=white" alt="NFS"/>
   <img src="https://img.shields.io/badge/CIFS-00599C?style=for-the-badge" alt="CIFS"/>
-    <img src="https://img.shields.io/badge/NFS-FF6B35?style=for-the-badge&logo=files&logoColor=white" alt="iSCSI"/>
+  <img src="https://img.shields.io/badge/iSCSI-6E44FF?style=for-the-badge&logo=server&logoColor=white" alt="iSCSI"/>
   <img src="https://img.shields.io/badge/MinIO-FE0D58?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
 </p>
 
