@@ -61,7 +61,7 @@ I'm a passionate **Cloud & DevOps Engineer** based in **Tunis, Tunisia** ğŸ‡¹ğŸ‡
 <p align="left">
   <img src="https://img.shields.io/badge/NFS-FF6B35?style=for-the-badge&logo=files&logoColor=white" alt="NFS"/>
   <img src="https://img.shields.io/badge/CIFS-00599C?style=for-the-badge" alt="CIFS"/>
-  <img src="https://img.shields.io/badge/iSCSI-003087?style-for-the-badge" alt="iSCSI"/>
+    <img src="https://img.shields.io/badge/NFS-FF6B35?style=for-the-badge&logo=files&logoColor=white" alt="iSCSI"/>
   <img src="https://img.shields.io/badge/MinIO-FE0D58?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
 </p>
 
