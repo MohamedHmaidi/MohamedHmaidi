@@ -183,7 +183,6 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedHmaidi&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedHmaidi&theme=dracula&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHmaidi&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
 
