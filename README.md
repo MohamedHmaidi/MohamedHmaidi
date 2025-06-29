@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud & DevOps Engineer** specializing in **IT Infrastructure, Cloud Computing, and DevOps Automation** with a passion for building scalable, automated solutions. Currently based in **Paris, France** 🇫🇷
+I'm a **Cloud & DevOps Engineer** specializing in **IT Infrastructure, Cloud Computing, and DevOps Automation** with a passion for building scalable, automated solutions. Currently based in **Tunis, Tunisia** 🇹🇳
 
 - 🔭 I'm currently working on **Enterprise Cloud Infrastructure & DevOps Solutions**
 - 🌱 I'm constantly expanding my expertise in **Azure, AWS, and Kubernetes Orchestration**
@@ -38,6 +38,7 @@ I'm a **Cloud & DevOps Engineer** specializing in **IT Infrastructure, Cloud Com
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Kubespray-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubespray"/>
 </p>
 
 ### 🐳 Containerization & Orchestration
@@ -46,6 +47,10 @@ I'm a **Cloud & DevOps Engineer** specializing in **IT Infrastructure, Cloud Com
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
   <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Swarm"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/K8s_Operators-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Operators"/>
+  <img src="https://img.shields.io/badge/MetalLB-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="MetalLB"/>
+  <img src="https://img.shields.io/badge/NFS-FF6B35?style=for-the-badge&logo=files&logoColor=white" alt="NFS"/>
 </p>
 
 ### 💻 Web Development
@@ -77,6 +82,8 @@ I'm a **Cloud & DevOps Engineer** specializing in **IT Infrastructure, Cloud Com
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Math-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Math"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
 ### 🖥️ Desktop Development
@@ -127,11 +134,25 @@ I'm a **Cloud & DevOps Engineer** specializing in **IT Infrastructure, Cloud Com
 
 ## 💼 Professional Experience
 
-### ☁️ Cloud Systems Engineer | Next Step IT
-*July 2024 - September 2024*
+### ☁️ Cloud & DevOps Engineer | Next Step IT
+*Current Role*
+
+**DBaaS Platform: Automated Managed Database Provisioning**
+- Conducted comprehensive functional and technical requirements analysis
+- Designed and implemented scalable infrastructure architecture
+- Configured dynamic storage server and provisioning systems
+- Automated database deployment using Helm and Kubernetes Operators
+- Developed backend API with Spring Boot for database management
+- Built responsive web interface for end-user database provisioning
+- Implemented multi-user management with secure isolation protocols
+- Established comprehensive monitoring for databases and infrastructure
+- **Tech Stack**: Kubernetes, NFS Dynamic Provisioning, Ansible, Kubespray, MetalLB Load Balancer, Kubernetes Operators, Helm, Prometheus, Grafana, Spring Boot, Angular, MySQL, Flask, OpenCV
+
+**Cloud Systems Reporting Platform**
 - Architected integrated cloud infrastructure with Nakivo, Zimbra, and vCenter
 - Developed automated reporting systems with PowerShell automation
 - Implemented production-ready dashboards with comprehensive PDF reporting
+- **Tech Stack**: vCenter, VMware ESXi, Nakivo, Zimbra, Grafana, PowerShell, Spring Boot, Node.js, PostgreSQL
 
 ### ⚙️ DevOps Engineer | Société Générale d'Automatisme
 *June 2023 - August 2023*
