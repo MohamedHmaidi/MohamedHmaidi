@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Hmaidi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00C4B4&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;IT+Infrastructure+Architect;Automation+%26+Scalability+Specialist;Building+the+Future+of+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00C4B4¢er=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Engineer;IT+Infrastructure+Architect;Automation+%26+Scalability+Specialist;Building+the+Future+of+Cloud" alt="Typing SVG" />
 </div>
 
 ---
@@ -39,7 +39,7 @@ I'm a passionate **Cloud & DevOps Engineer** based in **Tunis, Tunisia** 🇹�
 <p align="left">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style-for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Kubespray-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubespray"/>
@@ -57,11 +57,19 @@ I'm a passionate **Cloud & DevOps Engineer** based in **Tunis, Tunisia** 🇹�
   <img src="https://img.shields.io/badge/NFS-FF6B35?style=for-the-badge&logo=files&logoColor=white" alt="NFS"/>
 </p>
 
+### 🗄️ Storage
+<p align="left">
+  <img src="https://img.shields.io/badge/NFS-FF6B35?style=for-the-badge&logo=files&logoColor=white" alt="NFS"/>
+  <img src="https://img.shields.io/badge/CIFS-00599C?style=for-the-badge" alt="CIFS"/>
+  <img src="https://img.shields.io/badge/iSCSI-003087?style-for-the-badge" alt="iSCSI"/>
+  <img src="https://img.shields.io/badge/MinIO-FE0D58?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
+</p>
+
 ### 💻 Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style-for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
@@ -81,9 +89,9 @@ I'm a passionate **Cloud & DevOps Engineer** based in **Tunis, Tunisia** 🇹�
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style-for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style-for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
@@ -91,9 +99,9 @@ I'm a passionate **Cloud & DevOps Engineer** based in **Tunis, Tunisia** 🇹�
 
 ### 🖥️ Desktop Development
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C-00599C?style-for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX"/>
+  <img src="https://img.shields.io/badge/JavaFX-ED8B00?style-for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX"/>
 </p>
 
 ### 🖥️ Operating Systems
@@ -106,9 +114,9 @@ I'm a passionate **Cloud & DevOps Engineer** based in **Tunis, Tunisia** 🇹�
 
 ### 🛠️ Development Tools & IDEs
 <p align="left">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style-for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style-for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style-for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/StarUML-FF6B6B?style=for-the-badge" alt="StarUML"/>
   <img src="https://img.shields.io/badge/Scene%20Builder-FF6B35?style=for-the-badge" alt="Scene Builder"/>
@@ -142,7 +150,6 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 - **Security**: Trivy scans, SonarQube code analysis
 - **Orchestration**: Kubernetes with Helm charts
 - **Impact**: Reduced manual intervention by **80%**
-
 
 ---
 
@@ -202,7 +209,7 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:hmaidi185@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style-for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
