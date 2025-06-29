@@ -10,11 +10,11 @@
 
 I'm a passionate **Cloud & DevOps Engineer** based in **Tunis, Tunisia** 🇹🇳, with a deep focus on architecting scalable, secure, and automated infrastructure solutions. I thrive on transforming complex challenges into streamlined, high-performance systems.
 
-- 🔭 **Currently working on**: Enterprise-grade cloud infrastructure and DevOps pipelines
-- 🌱 **Learning**: Advanced Kubernetes orchestration, multi-cloud strategies, and AI-driven infrastructure
-- 💡 **Passionate about**: Infrastructure as Code, CI/CD automation, and system optimization
-- 📫 **Reach me at**: [hmaidi185@gmail.com](mailto:hmaidi185@gmail.com)
-- ⚡ **Fun fact**: I love experimenting with new cloud tools and automating *everything*!
+- 🔭 **Currently Leading**: The design of scalable, reliable, and modern cloud systems for enterprise needs  
+- 🌱 **Actively Growing In**: Cloud platforms, system design best practices, and modern infrastructure strategies  
+- 💡 **Cloud-First Mindset**: Passionate about automation, clean workflows, and continuous improvement  
+- 📫 **Let’s Connect**: [hmaidi185@gmail.com](mailto:hmaidi185@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-hmaidi-b3b1741b2/)  
+- ⚡ **What Drives Me**: Building smart, automated systems that simplify work and make teams faster and stronger  
 ---
 
 ## 🛠️ Tech Stack & Expertise
