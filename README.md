@@ -185,38 +185,43 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 - Designed data warehouse for Swift transaction processing
 - Built ETL pipelines with Talend
 - Created executive dashboards with Power BI
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedHmaidi&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHmaidi&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedHmaidi&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="47%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHmaidi&layout=compact&theme=radical&hide_border=true&border_radius=10" width="47%" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🌐 Connect with Me!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hmaidi-b3b1741b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-hmaidi-b3b1741b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/MohamedHmaidi">
+  <a href="https://github.com/MohamedHmaidi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:hmaidi185@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style-for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:hmaidi185@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedHmaidi&label=Profile%20Views&color=00C4B4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MohamedHmaidi&label=Profile%20Views&color=0abde3&style=flat-square" alt="Profile Views" />
 </div>
 
+<br/>
+
 <div align="center">
-  <i>🌟 Crafted with ❤️ by <a href="https://github.com/MohamedHmaidi">Mohamed Hmaidi</a></i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <p><i>🌟 Crafted with ❤️ by <a href="https://github.com/MohamedHmaidi">Mohamed Hmaidi</a></i></p>
 </div>
+
+---
+
