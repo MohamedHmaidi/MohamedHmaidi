@@ -196,9 +196,8 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 
 ---
 
-## 🌐 Connect with Me!
-
-<p align="center"> <a href="https://www.linkedin.com/in/mohamed-hmaidi-b3b1741b2/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" /> </a> <a href="https://github.com/MohamedHmaidi" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub" /> </a> <a href="mailto:hmaidi185@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Gmail" /> </a> </p>
+## 📲 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/mohamed-hmaidi-b3b1741b2/" target="_blank"> <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="60" alt="LinkedIn"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/MohamedHmaidi" target="_blank"> <img src="https://img.icons8.com/3d-fluency/94/github.png" width="60" alt="GitHub"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:hmaidi185@gmail.com" target="_blank"> <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="60" alt="Gmail"/> </a> </p>
 
 ---
 
