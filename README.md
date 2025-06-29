@@ -149,6 +149,7 @@ I'm a **Cloud & DevOps Engineer** specializing in **IT Infrastructure, Cloud Com
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedHmaidi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedHmaidi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -158,7 +159,7 @@ I'm a **Cloud & DevOps Engineer** specializing in **IT Infrastructure, Cloud Com
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/hmaidi-mohamed">
+  <a href="https://www.linkedin.com/in/mohamed-hmaidi-b3b1741b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/MohamedHmaidi">
