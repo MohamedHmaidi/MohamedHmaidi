@@ -149,7 +149,7 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 ## 💼 Professional Experience
 
 ### ☁️ Cloud & DevOps Engineer Intern | Next Step IT
-*Current Internship*
+*February 2025 - July 2025*
 
 **DBaaS Platform: Automated Managed Database Provisioning**
 - Designed and implemented scalable database infrastructure
@@ -159,7 +159,7 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 - **Tech Stack**: Kubernetes, NFS, Ansible, Kubespray, MetalLB, Helm, Prometheus, Grafana, Spring Boot, Angular, MySQL, Flask, OpenCV
 
 ### ☁️ Cloud & DevOps Engineer Intern | Next Step IT
-*Previous Internship*
+*July 2024 - August 2024*
 
 **Cloud Systems Reporting Platform**
 - Architected integrated infrastructure with Nakivo, Zimbra, and vCenter
