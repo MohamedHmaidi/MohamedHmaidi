@@ -196,19 +196,17 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me!
 
 <p align="center">
-  ✨ Let's collaborate on something meaningful! ✨<br><br>
-
   <a href="https://www.linkedin.com/in/mohamed-hmaidi-b3b1741b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn Badge" />
   </a>
   <a href="https://github.com/MohamedHmaidi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
   <a href="mailto:hmaidi185@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail Badge" />
   </a>
 </p>
 
