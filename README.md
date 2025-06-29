@@ -143,6 +143,7 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 - **Orchestration**: Kubernetes with Helm charts
 - **Impact**: Reduced manual intervention by **80%**
 
+
 ---
 
 ## 💼 Professional Experience
@@ -156,6 +157,9 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 - Built secure, responsive web interfaces with Angular and Spring Boot
 - Integrated comprehensive monitoring with Prometheus and Grafana
 - **Tech Stack**: Kubernetes, NFS, Ansible, Kubespray, MetalLB, Helm, Prometheus, Grafana, Spring Boot, Angular, MySQL, Flask, OpenCV
+
+### ☁️ Cloud & DevOps Engineer Intern | Next Step IT
+*Previous Internship*
 
 **Cloud Systems Reporting Platform**
 - Architected integrated infrastructure with Nakivo, Zimbra, and vCenter
