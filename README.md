@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Mohamed Hmaidi
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=600&color=00C4B4&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;IT+Infrastructure+Architect;Automation+%26+Scalability+Specialist;Building+the+Future+of+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=800&duration=2800&color=00F0E0&center=true&vCenter=true&width=800&height=80&lines=✨+Cloud+%26+DevOps+Engineer;🏗️+IT+Infrastructure+Architect;⚡+Automation+%26+Scalability+Guru;🚀+Building+the+Future+of+Cloud+Computing;🌈+Turning+Infrastructure+into+Art;🛠️+IaC+%7C+K8s+%7C+AWS+%7C+Azure+%7C+GCP" alt="Typing SVG" />
 </div>
-
 ---
 
 ## 🌟 About Me
