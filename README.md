@@ -1,59 +1,7 @@
 # 👋 Hi, I'm Mohamed Hmaidi
 <div align="center">
-  
-```html
-<h3>
-  <span id="typing-effect" style="font-family: 'JetBrains Mono', monospace; font-weight: 700; color: #00C4B4;"></span>
-  <span class="cursor" style="animation: blink 1s infinite">|</span>
-</h3>
-
-<script>
-  const phrases = [
-    "Cloud & DevOps Engineer",
-    "IT Infrastructure Architect", 
-    "Automation & Scalability Specialist",
-    "Building the Future of Cloud"
-  ];
-  const element = document.getElementById("typing-effect");
-  let i = 0, j = 0, currentPhrase = [], isDeleting = false;
-  
-  function type() {
-    const fullTxt = phrases[i];
-    
-    if (isDeleting) {
-      currentPhrase.pop();
-      j--;
-    } else {
-      currentPhrase.push(fullTxt[j]);
-      j++;
-    }
-    
-    element.innerHTML = currentPhrase.join("");
-    
-    let typeSpeed = 100;
-    if (isDeleting) typeSpeed /= 2;
-    
-    if (!isDeleting && j === fullTxt.length) {
-      isDeleting = true;
-      typeSpeed = 1000;
-    } else if (isDeleting && j === 0) {
-      isDeleting = false;
-      i = (i + 1) % phrases.length;
-      typeSpeed = 500;
-    }
-    
-    setTimeout(type, typeSpeed);
-  }
-  
-  type();
-</script>
-
-<style>
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-</style>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=600&color=00C4B4&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;IT+Infrastructure+Architect;Automation+%26+Scalability+Specialist;Building+the+Future+of+Cloud" alt="Typing SVG" />
+</div>
 
 ## 🌟 About Me
 
