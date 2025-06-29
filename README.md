@@ -196,23 +196,22 @@ An **automated deployment pipeline** leveraging modern DevOps practices.
 
 ---
 
-## 🌐 Connect with Me!
+## 🌐 Connect with Me
 
-<div align="center" style="margin-top: 20px;">
+<p align="center">
+  ✨ Let's collaborate on something meaningful! ✨<br><br>
 
-  <a href="https://www.linkedin.com/in/mohamed-hmaidi-b3b1741b2/" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/mohamed-hmaidi-b3b1741b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="https://github.com/MohamedHmaidi" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/MohamedHmaidi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="mailto:hmaidi185@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:hmaidi185@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
 
-</div>
 
 ---
 
