@@ -1,16 +1,17 @@
 # Hi there! 👋 I'm Mohamed Hmaidi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cloud+Computing+Engineer;DevOps+%26+Infrastructure+Specialist;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cloud+%26+DevOps+Engineer;IT+Infrastructure+Specialist;Platform+Architecture+Expert;Automation+%26+Scalability+Focused" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a **5th-year Engineering Student** specializing in **IT Architecture, DevOps, and Cloud Computing** with a passion for building scalable, automated solutions. Currently based in **Paris, France** 🇫🇷
+I'm a **Cloud & DevOps Engineer** specializing in **IT Infrastructure, Cloud Computing, and DevOps Automation** with a passion for building scalable, automated solutions. Currently based in **Paris, France** 🇫🇷
 
-- 🔭 I'm currently working on **Cloud Infrastructure & DevOps Automation**
-- 🌱 I'm constantly learning about **Azure, AWS, and Kubernetes**
-- 💡 I love solving complex problems and optimizing system performance
+- 🔭 I'm currently working on **Enterprise Cloud Infrastructure & DevOps Solutions**
+- 🌱 I'm constantly expanding my expertise in **Azure, AWS, and Kubernetes Orchestration**
+- 💡 I love architecting robust systems and optimizing infrastructure performance
+- 🏗️ Focused on **Infrastructure as Code** and **CI/CD Pipeline Automation**
 - 📫 How to reach me: **hmaidi185@gmail.com**
 
 ## 🛠️ Tech Stack & Skills
